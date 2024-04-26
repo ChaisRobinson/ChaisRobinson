@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChaisRobinson&theme=dracula" alt="ChaisRobinson" /></a> </p>
 
-- 🔭 I’m currently working on **Per Scholas software engineering training.**
-- 👯 I’m looking to collaborate on **Open source projects that focus on social good, particularly those that leverage technology to improve accessibility and inclusivity.**
-- 🤝 I’m looking for help with **Understanding and implementing complex data structures and algorithms in my projects. If you're a wizard in these areas, I'd love to connect!**
-- 🌱 I’m currently learning **The MERN stack application.**
-- 💬 Ask me about **My past projects on building interactive front-ends and scalable back-end systems. Also, feel free to ask about my journey transitioning from a hobbyist to a professional developer.**
-- 📫 How to reach me **chais5robinson@gmail.com**
-- ⚡ Fun fact **I love to participate in hackathons and Overwatch 2 tournaments. **
+- 🔭 I’m currently working on: **Per Scholas software engineering training.**
+- 👯 I’m looking to collaborate on: **Open source projects that focus on social good, particularly those that leverage technology to improve accessibility and inclusivity.**
+- 🤝 I’m looking for help with: **Understanding and implementing complex data structures and algorithms in my projects. If you're a wizard in these areas, I'd love to connect!**
+- 🌱 I’m currently learning: **The MERN stack application.**
+- 💬 Ask me about: **My past projects on building interactive front-ends and scalable back-end systems. Also, feel free to ask about my journey transitioning from a hobbyist to a professional developer.**
+- 📫 How to reach me: **chais5robinson@gmail.com**
+- ⚡ Fun fact: **I love to participate in hackathons and Overwatch 2 tournaments. **
 
 <div> <a href="https://www.linkedin.com/in/CHAIS ROBINSON" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ChaisRobinson" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
